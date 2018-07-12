@@ -3,5 +3,5 @@ Material themes for default Mac OS X Terminal.app
 
 ![avatar](https://raw.githubusercontent.com/liboysoft/osx-terminal-material-themes/master/screenshot.png)
 
-##Install
+## Install
 ``Terminal > Preferences > Import``
